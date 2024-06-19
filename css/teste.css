@@ -23,7 +23,7 @@
   .card {
     width: 300px;
     height: 460px;
-    margin: 25px;
+    margin: 35px;
     background-color: #fff;
     border-radius: 20px;
     overflow: hidden;
@@ -70,7 +70,7 @@
   
   /* Card Footer */
   .card-footer {
-    margin-top: 10px;
+    margin-top: 15px;
     text-align: center;
     background-color: #000;
   }
